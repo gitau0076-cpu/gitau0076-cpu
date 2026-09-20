@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Florence Gitau
 
-<!--
-**gitau0076-cpu/gitau0076-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Business Administration (IBM).
+- I'm interested in Record Keeping, AI and Programming.
+- I'm looking to collaborate on  beginner-friendly open source project.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- HTML/CSS
+- JavaScript
+- React
+- Node.js/Expressbackend
+- Database
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- https://github.com/gitau0076-cpu.github.io-repository
+
+## How to Reach Me
+- Email:nyanjihia98@gmail.com
+- LinkedIn: https://www.linkedin.com/in/florence-gitau-480874358
