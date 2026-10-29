@@ -28,7 +28,7 @@
  ## Github Stats
  ![Your Stats](https://github-readme-stats.vercel.app/api?username=gitau0076-cpu&show_icons=true&theme=radical)
 ## Live page
-- https://github.com/gitau0076-cpu.github.io
+-[My live page](https://gitau0076-cpu.github.io/)
 
 ## How to Reach Me
 - Email:nyanjihia98@gmail.com
