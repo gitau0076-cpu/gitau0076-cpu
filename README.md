@@ -27,6 +27,10 @@
   
  ## GitHub Stats
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitau0076-cpu&show_icons=true&theme=radical)
+
+ ## GitHub Streak
+ ![GitHub Streak](https://streak-stats.demolab.com?user=gitau0076-cpu&theme=radical)
+ 
 ## Live page
 [My live page](https://gitau0076-cpu.github.io/)
 
